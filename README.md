@@ -87,11 +87,6 @@ python rlhf_rw/main.py \
 - `--fmv`: Feature model version. 1 is for the first model and 2 is for the second model.
 - `--features_used`: Binary flags for which gaze features to use (fixation count, duration, etc.)
 
-## Data
-
-The eye-tracking data used in this study is available at [dataset link]. The repository includes scripts for preprocessing this data and converting it into the format required for training.
-
-
 ## Citation
 
 If you find this work useful for your research, please cite our paper:

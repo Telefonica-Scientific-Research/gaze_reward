@@ -5,6 +5,9 @@ This repository contains the official implementation for the paper "Seeing Eye t
 ## Overview
 
 This project introduces a novel approach to aligning Large Language Models (LLMs) with human preferences by leveraging eye-tracking data. By analyzing human gaze patterns during the reading of model responses, we develop a reward mechanism that captures implicit human feedback, enabling more effective alignment than traditional methods. Our approach demonstrates significant improvements in generating responses that better match human attention patterns and preferences.
+<p align="center">
+  <img src="assets/pipeline.png" alt="Overview of the system" width="80%">
+</p>
 
 ## Key Features
 

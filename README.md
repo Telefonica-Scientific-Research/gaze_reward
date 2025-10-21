@@ -94,7 +94,7 @@ If you find this work useful for your research, please cite our paper:
 ```bibtex
 @inproceedings{Lopez-Cardona2025Seeing,
   title     = {Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models},
-  author    = {L{\'o}pez-Cardona, {\'A}ngela and Segura, Carlos and Karatzoglou, Alexandros and Abadal, Sergi and Arapakis, Ioannis},
+  author    = {Lopez-Cardona, Angela and Segura, Carlos and Karatzoglou, Alexandros and Abadal, Sergi and Arapakis, Ioannis},
   booktitle = {International Conference on Learning Representations (ICLR)},
   year      = {2025},
   url       = {https://openreview.net/forum?id=uZgK0tcPqd}

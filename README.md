@@ -105,4 +105,9 @@ If you find this work useful for your research, please cite our paper:
   url       = {https://openreview.net/forum?id=uZgK0tcPqd}
 }
 ```
+## License
+
+© 2025 Telefónica Innovación Digital.  
+Released under the GNU Lesser General Public License v3.0 (LGPLv3).  
+See [LICENSE](./LICENSE) for details.
 
